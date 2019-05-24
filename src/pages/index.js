@@ -19,7 +19,7 @@ const Home = (props) => {
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1>A Montana 
+          <h1><br>A Montana<br> 
           <br>Public Relations,<br>
            <br>Marketing Firm<br></h1>
           <p>
