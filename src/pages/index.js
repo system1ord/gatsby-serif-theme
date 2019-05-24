@@ -19,7 +19,9 @@ const Home = (props) => {
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1>Montana Public Relations and Marketing Firm</h1>
+          <h1>A Montana 
+          <br>Public Relations,<br>
+           <br>Marketing Firm<br></h1>
           <p>
             Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This
             is a beautiful and artfully designed starting theme.
