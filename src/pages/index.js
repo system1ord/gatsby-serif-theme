@@ -19,9 +19,13 @@ const Home = (props) => {
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1><br>A Montana<br> 
-          <br>Public Relations,<br>
-           <br>Marketing Firm<br></h1>
+          <h1>A Montana
+          <br />
+          Public Relations,
+          <br />
+           Marketing Firm
+           </h1>
+           <br />
           <p>
             We are PR and marketing firm located in Helena, the capital of Montana. 
           </p>
