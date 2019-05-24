@@ -27,7 +27,7 @@ const Home = (props) => {
            </h1>
            <br />
           <p>
-            We are PR and marketing firm located in Helena, the capital of Montana. 
+            Global Strategies provides business, Non-profit and other organizations the public relation and digital marketing services it takes to win. 
           </p>
         </div>
       </div>
