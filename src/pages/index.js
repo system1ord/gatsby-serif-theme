@@ -23,8 +23,7 @@ const Home = (props) => {
           <br>Public Relations,<br>
            <br>Marketing Firm<br></h1>
           <p>
-            Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This
-            is a beautiful and artfully designed starting theme.
+            We are PR and marketing firm located in Helena, the capital of Montana. 
           </p>
         </div>
       </div>
